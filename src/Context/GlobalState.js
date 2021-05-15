@@ -5,13 +5,8 @@ const initialState = {
     transactions: [
         {
         id:1,
-        text: 'Flower', 
-        amount: 20
-        },
-        {
-        id:2,
-        text: 'Salary', 
-        amount: -30
+        text: 'Income', 
+        amount: 2000
         },
     ]
 }
